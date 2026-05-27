@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:23:51.891Z",
+  "savedAt": "2026-05-27T05:24:50.213Z",
   "groups": [
     {
       "id": "17a7d3b7-ead3-483c-bb01-dbf655dea773",
@@ -67,6 +67,36 @@
       "type": "User Story",
       "priority": "High",
       "owner": "Student"
+    },
+    {
+      "id": "7d959ca9-c7ac-415c-92bc-ffca36a742aa",
+      "title": "NFR Epic 1: Security and Privacy: The system must ensure that students can access ",
+      "description": "Security and Privacy: The system must ensure that students can access only their own academic roadmap and schedule information, while authorized advisors can access records required for advising.",
+      "groupId": "086207c6-b590-4c7c-a98f-336495b1cfe0",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "0c49cad1-645a-4e35-a2cc-0f88a5e467ef",
+      "title": "NFR Epic 2: Auditability: Every manual prerequisite override performed by an advis",
+      "description": "Auditability: Every manual prerequisite override performed by an advisor must be recorded with the advisor identity, student, course, date, time, and reason for the override.",
+      "groupId": "086207c6-b590-4c7c-a98f-336495b1cfe0",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "9dc8580d-4097-483d-83e2-d6662c516303",
+      "title": "NFR Epic 3: Data Accuracy and Availability: The system must integrate with the liv",
+      "description": "Data Accuracy and Availability: The system must integrate with the live course database so that current-term seat availability and prerequisite information are accurate when students plan or register for courses.",
+      "groupId": "086207c6-b590-4c7c-a98f-336495b1cfe0",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
     }
   ],
   "analysis": {
