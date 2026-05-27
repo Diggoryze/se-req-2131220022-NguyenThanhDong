@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:31:05.281Z",
+  "savedAt": "2026-05-27T05:31:48.094Z",
   "groups": [
     {
       "id": "af713fe6-a752-4900-a7c3-cb73f99f9720",
@@ -67,6 +67,36 @@
       "type": "User Story",
       "priority": "High",
       "owner": "Administrator/Staff"
+    },
+    {
+      "id": "a66784fa-8b12-440b-b476-39d0eb1bcc03",
+      "title": "NFR Epic 1: Security and Access Control: The system must allow account creation on",
+      "description": "Security and Access Control: The system must allow account creation only for verified university users through a valid .edu email verification process, preventing unauthorized external users from accessing the marketplace.",
+      "groupId": "b0885a6c-fb29-45ec-8611-cb15d63fe83a",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "3f61d2bd-09ad-465e-b9bf-9ed245374a7f",
+      "title": "NFR Epic 2: Safety: For listings that require an in-person exchange, the system mu",
+      "description": "Safety: For listings that require an in-person exchange, the system must require users to select a university-approved Safe Exchange Zone before arranging a meetup.",
+      "groupId": "b0885a6c-fb29-45ec-8611-cb15d63fe83a",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "5f8e97df-c81e-47e4-b8d7-ea9bd633c378",
+      "title": "NFR Epic 3: Legal and Financial Compliance: The system must not store payment info",
+      "description": "Legal and Financial Compliance: The system must not store payment information, process payments, or automatically collect transaction fees; users must complete payment independently outside the application.",
+      "groupId": "b0885a6c-fb29-45ec-8611-cb15d63fe83a",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
     }
   ],
   "analysis": {
