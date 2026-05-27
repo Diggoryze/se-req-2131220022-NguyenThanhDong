@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:36:07.803Z",
+  "savedAt": "2026-05-27T05:36:24.879Z",
   "groups": [
     {
       "id": "739a6ce9-d26c-479c-861c-d5e855f30172",
@@ -67,6 +67,36 @@
       "type": "User Story",
       "priority": "High",
       "owner": "Administrator/Staff"
+    },
+    {
+      "id": "5afe7f14-b2df-49e0-8abe-ecd830473125",
+      "title": "NFR Epic 1: Reliability and Offline Availability: The kitchen display system must ",
+      "description": "Reliability and Offline Availability: The kitchen display system must continue displaying and managing already-received orders without crashing during an internet outage of at least 10 minutes, and it must synchronize updates once the connection is restored.",
+      "groupId": "f7880403-87e4-416f-8bf8-a4af7085d6dd",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "5a52d232-8408-4f36-8b78-c5a0acbe7927",
+      "title": "NFR Epic 2: Usability and Accessibility: Students must be able to apply an allerge",
+      "description": "Usability and Accessibility: Students must be able to apply an allergen filter to the menu so that items containing the selected allergen are hidden from view, making it easier and safer to select suitable food.",
+      "groupId": "f7880403-87e4-416f-8bf8-a4af7085d6dd",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "80a744a2-d012-4299-947b-db2de7b454cc",
+      "title": "NFR Epic 3: Data Accuracy and Responsiveness: When kitchen staff mark an item as s",
+      "description": "Data Accuracy and Responsiveness: When kitchen staff mark an item as sold out, the unavailable status must be updated promptly so that students cannot submit new orders for that item.",
+      "groupId": "f7880403-87e4-416f-8bf8-a4af7085d6dd",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
     }
   ],
   "analysis": {
