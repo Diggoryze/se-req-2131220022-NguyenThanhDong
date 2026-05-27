@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:23:18.361Z",
+  "savedAt": "2026-05-27T05:23:51.891Z",
   "groups": [
     {
       "id": "17a7d3b7-ead3-483c-bb01-dbf655dea773",
@@ -57,6 +57,16 @@
       "type": "User Story",
       "priority": "High",
       "owner": "Advisor/Staff"
+    },
+    {
+      "id": "45bc2423-3c2b-4b4e-bb22-ba71558de8bc",
+      "title": "Protect student schedule privacy",
+      "description": "As a Student, I want my schedule and academic roadmap to be private, so that other students cannot access my academic information.\n\nAcceptance Criteria:\n- A logged-in student can view their own schedule and roadmap.\n- When a student attempts to access another student's schedule or roadmap, access is denied.\n- Authorized Advisor/Staff users can access student roadmap information required for advising.",
+      "groupId": "086207c6-b590-4c7c-a98f-336495b1cfe0",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "High",
+      "owner": "Student"
     }
   ],
   "analysis": {
