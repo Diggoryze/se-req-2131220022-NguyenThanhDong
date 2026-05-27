@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T05:21:51.332Z",
+  "savedAt": "2026-05-27T05:22:33.877Z",
   "groups": [
     {
       "id": "17a7d3b7-ead3-483c-bb01-dbf655dea773",
@@ -36,6 +36,16 @@
       "status": "todo",
       "type": "User Story",
       "priority": "Medium",
+      "owner": "Student"
+    },
+    {
+      "id": "9b142f26-3112-4b9f-aa96-c1434328607c",
+      "title": "Plan future semester roadmap",
+      "description": "As a Student, I want to add courses to future semesters, so that I can plan a four-year path toward graduation.\n\nAcceptance Criteria:\n- A student can add a course to a future semester in the roadmap.\n- A future planned course is labelled as planned and does not guarantee seat availability.\n- For the current registration term, the system blocks enrollment in a class marked as full.",
+      "groupId": "086207c6-b590-4c7c-a98f-336495b1cfe0",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "High",
       "owner": "Student"
     }
   ],
