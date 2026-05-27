@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-05-27T04:46:43.540Z",
+  "savedAt": "2026-05-27T05:20:42.112Z",
   "groups": [
     {
       "id": "17a7d3b7-ead3-483c-bb01-dbf655dea773",
@@ -17,7 +17,18 @@
       "color": "#d97706"
     }
   ],
-  "tickets": [],
+  "tickets": [
+    {
+      "id": "8eb4a9d5-186b-4665-810e-a8cb70126f37",
+      "title": "Check prerequisite eligibility",
+      "description": "As a Student, I want to check whether I meet course prerequisites, so that I can create a valid academic roadmap.\n\nAcceptance Criteria:\n- When all prerequisite courses are completed, the system shows the selected course as eligible.\n- When a prerequisite is missing, the system displays the missing prerequisite course.\n- When a student is not eligible, the system prevents current-term registration unless an authorized override exists.",
+      "groupId": "086207c6-b590-4c7c-a98f-336495b1cfe0",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "High",
+      "owner": "Student"
+    }
+  ],
   "analysis": {
     "ambiguity1": "The requirement \"the system needs to stop students from even asking whether they can take Course B without completing Course A\" is vague because it does not define exactly how the system should respond. It is unclear whether the system should block registration, display a warning, recommend prerequisite courses, or allow exceptions before advisor review.",
     "ambiguity2": "The requirement \"warn me if I am choosing a class that starts at 8:00 AM\" is vague because it is unclear whether the warning should apply only to exactly 8:00 AM classes or to all early morning classes. It also does not specify whether the warning is informational only or whether students can disable it.",
