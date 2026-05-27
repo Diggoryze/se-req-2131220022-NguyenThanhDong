@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-05-27T04:32:58.123Z",
+  "groups": [
+    {
+      "id": "17a7d3b7-ead3-483c-bb01-dbf655dea773",
+      "name": "Blockers",
+      "color": "#2563eb"
+    },
+    {
+      "id": "086207c6-b590-4c7c-a98f-336495b1cfe0",
+      "name": "Standard Work",
+      "color": "#059669"
+    },
+    {
+      "id": "cd79e8a4-2ae9-4baa-83c9-789afd9e760a",
+      "name": "Minors",
+      "color": "#d97706"
+    }
+  ],
+  "tickets": [],
+  "analysis": {
+    "ambiguity1": "The requirement \"the system needs to stop students from even asking whether they can take Course B without completing Course A\" is vague because it does not define exactly how the system should respond. It is unclear whether the system should block registration, display a warning, recommend prerequisite courses, or allow exceptions before advisor review.",
+    "ambiguity2": "",
+    "conflictSolution": "",
+    "nfr1": "",
+    "nfr2": "",
+    "nfr3": ""
+  }
+}
